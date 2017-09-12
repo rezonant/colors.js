@@ -1,5 +1,5 @@
 {
-    "name": "colors",
+    "name": "@rezonant/colors",
     "description": "get colors in your node.js console",
     "version": "1.1.2",
     "author": "Marak Squires",
